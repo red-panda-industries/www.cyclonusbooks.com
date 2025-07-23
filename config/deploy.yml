@@ -1,4 +1,4 @@
-service: www.cyclonusbooks.com
+service: www-cyclonusbooks-com
 image: red-panda-industries/www.cyclonusbooks.com
 
 servers:
