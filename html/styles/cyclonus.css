@@ -2,7 +2,7 @@ html {
   margin: 0;
   padding: 0;
   min-height: 100vh;
-  background-color: rgb(187, 195, 203);
+  background-color: rgb(54, 117, 135);
   background-image: url(/images/blue-wave-tile.jpg);
   color: #151c21;
 }
@@ -51,7 +51,7 @@ p {
   padding: 0.5em 1em;
   color: rgba(0, 0, 0, 0.80);
   border: none rgba(0, 0, 0, 0);
-  background-color: #c8ccce;
+  background-color: #edf0f1;
   text-decoration: none;
   border-radius: 0.25em;
   font-weight: bold;
