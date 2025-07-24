@@ -9,7 +9,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Charis SIL', Superclarendon, 'Bookman Old Style', 'URW Bookman', 'URW Bookman L', 'Georgia Pro', Georgia, serif;
+  font-family: 'Charis SIL', Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
   font-size: max(13pt, 1.25vw);
   line-height: 1.5em;
 

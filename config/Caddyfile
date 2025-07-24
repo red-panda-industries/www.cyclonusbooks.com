@@ -6,9 +6,11 @@
 
   root * /srv/www
   file_server
+  cache
 
   handle_errors {
     rewrite * /{err.status_code}.html
     file_server
+    cache
   }
 }
